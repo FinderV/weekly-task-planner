@@ -50,13 +50,13 @@ After launching the app you can:
 
 ### Interface examples:
 
-![Main task planner screen](./assets/screenshot-main.png)  
+![Main task planner screen](./assets/main.png)  
 *Main screen showing tasks by days of the week.*
 
-![Adding a new task](./assets/screenshot-add-task.png)  
+![Adding a new task](./assets/add-task.png)  
 *Form for adding a new task.*
 
-![Completed tasks marked](./assets/screenshot-completed-tasks.png)  
+![Completed tasks marked](./assets/completed-tasks.png)  
 *Marking tasks as completed.*
 
 *(Please replace image paths with the actual paths in your project)*
@@ -79,6 +79,3 @@ If you want to contribute to the project:
 
 Please follow the code style and test your changes before submitting.
 
----
-
-If you want, I can help add other sections or formatting tips!
