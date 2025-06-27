@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+Certainly! Here is the translated README with images included in English:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+# 🗓️ Weekly Task Planner
 
-In the project directory, you can run:
+## 1. 🏷️ Project Title  
+**Weekly Task Planner** — a convenient web application for planning and managing weekly tasks.
 
-### `npm start`
+## 2. 📝 Description  
+Weekly Task Planner helps users efficiently organize their tasks, focuses on ease of use and productivity improvement by providing an intuitive interface with the ability to add, edit, and delete tasks.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 3. 📚 Table of Contents  
+- [Installation](#4-installation)  
+- [Usage](#5-usage)  
+- [Features](#6-features)  
+- [Contributing](#7-contributing)  
+- [License](#license)  
+- [Contact](#contact)  
+- [Acknowledgements](#acknowledgements)  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 4. ⚙️ Installation  
+To run the project locally, follow these steps:
 
-### `npm test`
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/FinderV/weekly-task-planner.git
+   ```
+2. Navigate to the project folder:  
+   ```bash
+   cd weekly-task-planner
+   ```
+3. Install dependencies:  
+   ```bash
+   npm install
+   ```
+4. Start the application:  
+   ```bash
+   npm start
+   ```
+5. Open in your browser at [http://localhost:3000](http://localhost:3000)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 5. 🚀 Usage  
+After launching the app you can:
 
-### `npm run build`
+- Add tasks for each day of the week.  
+- Edit and delete tasks.  
+- Mark tasks as completed.  
+- View tasks in a convenient weekly layout.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Interface examples:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Main task planner screen](./assets/screenshot-main.png)  
+*Main screen showing tasks by days of the week.*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Adding a new task](./assets/screenshot-add-task.png)  
+*Form for adding a new task.*
 
-### `npm run eject`
+![Completed tasks marked](./assets/screenshot-completed-tasks.png)  
+*Marking tasks as completed.*
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+*(Please replace image paths with the actual paths in your project)*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 6. ✨ Features  
+- User-friendly interface for weekly task planning.  
+- Ability to add, edit, and delete tasks.  
+- Mark tasks as completed.  
+- Responsive design for different devices.  
+- Local data storage (if implemented).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 7. 🤝 Contributing  
+If you want to contribute to the project:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Fork the repository.  
+2. Create a new branch for your feature (`git checkout -b feature-name`).  
+3. Commit your changes with clear messages.  
+4. Push changes to your fork.  
+5. Create a Pull Request to the main repository.
 
-## Learn More
+Please follow the code style and test your changes before submitting.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you want, I can help add other sections or formatting tips!
