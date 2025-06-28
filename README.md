@@ -50,17 +50,13 @@ After launching the app you can:
 *The main screen showing the line for entering tasks for the week.*
 ##
 
-
-
 ![Adding a new task](./assets/add-task.png)  
 *Adding a new task to the row.*
-
-
+##
 
 ![Completed tasks marked](./assets/completed-task.png)  
 *Marking task as completed.*
-
-
+##
 
 ## ✨ Features  
 - User-friendly interface for task planning.  
