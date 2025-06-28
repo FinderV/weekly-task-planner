@@ -61,7 +61,7 @@ After launching the app you can:
 - Mark tasks as completed.  
 - Responsive design for different devices.  
 
-## 7 🤝 Contributing  
+## 🤝 Contributing  
 If you want to contribute to the project:
 
 1. Fork the repository.  
