@@ -7,14 +7,11 @@
 Weekly Task Planner helps users efficiently organize their tasks, focuses on ease of use and productivity improvement by providing an intuitive interface with the ability to add, edit, and delete tasks.
 
 ## 3. 📚 Table of Contents  
-[Installation](#-installation)
-- [Installation](#4-installation)  
- [Usage](#-usage)  
-- [Features](#6-features)  
-- [Contributing](#7-contributing)  
-- [License](#license)  
-- [Contact](#contact)  
-- [Acknowledgements](#acknowledgements)  
+
+- [Installation](#-installation)  
+- [Usage](#-usage)  
+- [Features](#-features)  
+- [Contributing](#-contributing)  
 
 ## 4. ⚙️ Installation  
 To run the project locally, follow these steps:
@@ -40,10 +37,9 @@ To run the project locally, follow these steps:
 ## 5. 🚀 Usage  
 After launching the app you can:
 
-- Add tasks for each day of the week.  
-- Edit and delete tasks.  
+- Add tasks for the week.  
+- Delete tasks.  
 - Mark tasks as completed.  
-- View tasks in a convenient weekly layout.
 
 ### Interface examples:
 
@@ -57,11 +53,10 @@ After launching the app you can:
 *Marking task as completed.*
 
 ## 6. ✨ Features  
-- User-friendly interface for weekly task planning.  
-- Ability to add, edit, and delete tasks.  
+- User-friendly interface for task planning.  
+- Ability to add, delete tasks.  
 - Mark tasks as completed.  
 - Responsive design for different devices.  
-- Local data storage (if implemented).
 
 ## 7. 🤝 Contributing  
 If you want to contribute to the project:
