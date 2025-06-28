@@ -42,7 +42,7 @@ After launching the app you can:
 
 1. Write a new task
 
-2. Use the "Add" button to add a new task.
+2. Use the "Add" button to add a new task
 
 3. Cross out to complete the task
 
