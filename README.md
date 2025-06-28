@@ -46,16 +46,16 @@ After launching the app you can:
 
 ### Interface examples:
 
-<img src="./assets/main.png" width="400">
+<img src="./assets/main.png" width="500">
 
 *The main screen showing the line for entering tasks for the week.*
 ##
 
-<img src="./assets/add-task.png" width="400">
+<img src="./assets/add-task.png" width="500">
 *Adding a new task to the row.*
 ##
 
-![Completed tasks marked](./assets/completed-task.png)  
+<img src="./assets/completed-task.png" width="500">
 *Marking task as completed.*
 ##
 
