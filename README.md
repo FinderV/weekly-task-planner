@@ -7,7 +7,7 @@
 Weekly Task Planner helps users efficiently organize their tasks, focuses on ease of use and productivity improvement by providing an intuitive interface with the ability to add, edit, and delete tasks.
 
 ## 3. 📚 Table of Contents  
-- [Installation](#4-installation)  
+- [Installation](#4 -installation)  
 - [Usage](#5-usage)  
 - [Features](#6-features)  
 - [Contributing](#7-contributing)  
