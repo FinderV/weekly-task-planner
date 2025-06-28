@@ -9,12 +9,10 @@ Weekly Task Planner helps users efficiently organize their tasks, focuses on eas
 ## 📚 Table of Contents  
 
 - [Installation](#-installation)
- 
-- [Usage](#-usage)
- 
+- [Usage](#-usage) 
 - [Features](#-features)
- 
 - [Contributing](#-contributing)
+- [License](#-license)
 
 ## ⚙️ Installation  
 To run the project locally, follow these steps:
@@ -81,4 +79,7 @@ If you want to contribute to the project:
 5. Create a Pull Request to the main repository.
 
 Please follow the code style and test your changes before submitting.
+
+## ✨ License
+[MIT](https://github.com/FinderV/weekly-task-planner/blob/master/LICENSE.txt) License – Free for personal and commercial use.
 
