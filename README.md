@@ -40,9 +40,13 @@ To run the project locally, follow these steps:
 ## 🚀 Usage  
 After launching the app you can:
 
-- Add tasks for the week.  
-- Delete tasks.  
-- Mark tasks as completed.  
+1. Write a new task
+
+2. Use the "Add" button to add a new task.
+
+3. Cross out to complete the task
+
+4. Use the "Delete" button to delete tasks
 
 ### Interface examples:
 
