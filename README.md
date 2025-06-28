@@ -46,11 +46,11 @@ After launching the app you can:
 
 ### Interface examples:
 
-![Main task planner screen](./assets/main.png)  
+![Main task planner screen](./assets/main.png width="200")  
 *The main screen showing the line for entering tasks for the week.*
 ##
 
-![Adding a new task](./assets/add-task.png)  
+![Adding a new task](./assets/add-task.png )  
 *Adding a new task to the row.*
 ##
 
