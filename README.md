@@ -48,6 +48,7 @@ After launching the app you can:
 
 ![Main task planner screen](./assets/main.png)  
 *The main screen showing the line for entering tasks for the week.*
+##
 
 
 
