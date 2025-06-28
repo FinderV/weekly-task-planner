@@ -52,7 +52,7 @@ After launching the app you can:
 ![Adding a new task](./assets/add-task.png)  
 *Adding a new task to the row.*
 
-![Completed tasks marked](./assets/completed-tasks.png)  
+![Completed tasks marked](./assets/completed-task.png)  
 *Marking task as completed.*
 
 ## 6. ✨ Features  
