@@ -52,10 +52,12 @@ After launching the app you can:
 ##
 
 <img src="./assets/add-task.png" width="500">
+
 *Adding a new task to the row.*
 ##
 
 <img src="./assets/completed-task.png" width="500">
+
 *Marking task as completed.*
 ##
 
