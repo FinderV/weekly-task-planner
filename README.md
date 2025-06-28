@@ -51,15 +51,13 @@ After launching the app you can:
 ### Interface examples:
 
 ![Main task planner screen](./assets/main.png)  
-*Main screen showing tasks by days of the week.*
+*The main screen showing the line for entering tasks for the week.*
 
 ![Adding a new task](./assets/add-task.png)  
-*Form for adding a new task.*
+*Adding a new task to the row.*
 
 ![Completed tasks marked](./assets/completed-tasks.png)  
-*Marking tasks as completed.*
-
-*(Please replace image paths with the actual paths in your project)*
+*Marking task as completed.*
 
 ## 6. ✨ Features  
 - User-friendly interface for weekly task planning.  
