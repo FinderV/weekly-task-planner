@@ -1,7 +1,3 @@
-Certainly! Here is the translated README with images included in English:
-
----
-
 # 🗓️ Weekly Task Planner
 
 ## 1. 🏷️ Project Title  
