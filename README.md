@@ -1,12 +1,12 @@
 # 🗓️ Weekly Task Planner
 
-## 1. 🏷️ Project Title  
+## 🏷️ Project Title  
 **Weekly Task Planner** — a convenient web application for planning and managing weekly tasks.
 
-## 2. 📝 Description  
+## 📝 Description  
 Weekly Task Planner helps users efficiently organize their tasks, focuses on ease of use and productivity improvement by providing an intuitive interface with the ability to add, delete tasks.
 
-## 3. 📚 Table of Contents  
+## 📚 Table of Contents  
 
 - [Installation](#-installation)
  
