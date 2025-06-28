@@ -9,7 +9,7 @@ Weekly Task Planner helps users efficiently organize their tasks, focuses on eas
 ## 3. 📚 Table of Contents  
 [Installation](#-installation)
 - [Installation](#4-installation)  
-- [Usage](#5-usage)  
+ [Usage](#5-usage)  
 - [Features](#6-features)  
 - [Contributing](#7-contributing)  
 - [License](#license)  
