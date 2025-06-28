@@ -4,7 +4,7 @@
 **Weekly Task Planner** — a convenient web application for planning and managing weekly tasks.
 
 ## 2. 📝 Description  
-Weekly Task Planner helps users efficiently organize their tasks, focuses on ease of use and productivity improvement by providing an intuitive interface with the ability to add, edit, and delete tasks.
+Weekly Task Planner helps users efficiently organize their tasks, focuses on ease of use and productivity improvement by providing an intuitive interface with the ability to add, delete tasks.
 
 ## 3. 📚 Table of Contents  
 
