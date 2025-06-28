@@ -51,7 +51,7 @@ After launching the app you can:
 *The main screen showing the line for entering tasks for the week.*
 ##
 
-![Adding a new task](./assets/add-task.png )  
+<img src="./assets/add-task.png" width="400">
 *Adding a new task to the row.*
 ##
 
