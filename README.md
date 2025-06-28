@@ -14,7 +14,7 @@ Weekly Task Planner helps users efficiently organize their tasks, focuses on eas
  
 - [Features](#-features)
  
-- [Contributing](#-contributing)  
+- [Contributing](#-contributing)
 
 ## 4. ⚙️ Installation  
 To run the project locally, follow these steps:
@@ -61,7 +61,7 @@ After launching the app you can:
 - Mark tasks as completed.  
 - Responsive design for different devices.  
 
-## 7. 🤝 Contributing  
+## 7 🤝 Contributing  
 If you want to contribute to the project:
 
 1. Fork the repository.  
